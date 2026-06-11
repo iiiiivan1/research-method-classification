@@ -1,0 +1,13 @@
+<title>A proposed integrated environment for enhanced user interaction and value-adding of electronic documents: An empirical evaluation</title>
+<doi>https://doi.org/...</doi>
+<author>Chern Li Liew, Schubert Foo, K.R. Chennupati</author>
+<year>2001</year>
+<keyword></keyword>
+<abstract>This article investigates ...</abstract>
+<fulltext>
+<heading>Introduction</heading>
+...
+<heading>Research Methodology</heading>
+...
+</fulltext>
+<method>Focus Group; Content Analysis; Experiment; Questionnaire</method>
