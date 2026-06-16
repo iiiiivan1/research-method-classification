@@ -1,4 +1,4 @@
-# Research Method Classification 📊
+# Research Method Classification 
 
 > **Core implementation and sample data format for automatic research method classification from academic paper segments.**
 
@@ -9,7 +9,7 @@ The project investigates how different physical-position segments of academic pa
 
 ---
 
-## 🎯 Overview & Task
+##  Overview & Task
 
 Research methods are essential metadata for scholarly retrieval, literature reviews, and research intelligence analysis. However, these methods are often distributed across various parts of a paper rather than neatly contained in a clearly named "Methodology" section.
 
@@ -67,7 +67,7 @@ For detailed information about the required data format, see `data/README.md`.
 
 ---
 
-## 🧠 Models & Evaluation
+##  Models & Evaluation
 
 We provide representative implementations for three model families. Encoder outputs are decoded using threshold, top-k, or hybrid strategies (selected on the validation set). LLM outputs are normalized and mapped to the predefined label set before metric calculation.
 
@@ -82,14 +82,14 @@ All models are evaluated using **Micro-Precision**, **Micro-Recall**, and **Micr
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Install the required packages with pip:
 
 ```bash
 pip install -r requirements.txt
 ```
-## 🚀 Example Usage
+##  Example Usage
 
 Run BERT evaluation for one pair:
 ```bash
@@ -110,7 +110,7 @@ python src/evaluation/evaluate_llm.py
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * **Copyright Limitations:** Full-text data, trained checkpoints, and large model files are not included.
 * **Environment Setup:** Local paths in the scripts may need to be modified according to your specific environment.
@@ -118,7 +118,11 @@ python src/evaluation/evaluate_llm.py
 
 ---
 
-## 📖 Citation & Contact
-
-* If you use this code or data format in your research, please cite the corresponding paper.
+##  Citation & Contact
 * For questions about the data or reproduction details, please contact the authors.
+* If you use this code or data format in your research, please cite our paper (accepted at **ASIS&T 2026**):
+
+> **Fang, Q., Hao, J., & Zhang, C. (2026). Which Sections of a Research Paper Best Reveal Its Research Methods? Evidence from Library and Information Science. *Proceedings of the Association for Information Science and Technology*.**
+
+
+
