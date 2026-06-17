@@ -1,3 +1,0 @@
-Methodological Summary Generation Prompt
-
-This prompt is used to generate methodological summaries for long text segments.The purpose of methodological summarization is to compress long segment-combination inputs while preserving explicitly stated methodological evidence, such as research design, data sources, samples, tools, models, variables, and evaluation metrics.In our experiments, DeepSeek-V3.2 was used for semantic compression and summarization with temperature set to 0.0.
