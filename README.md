@@ -122,7 +122,7 @@ python src/evaluation/evaluate_llm.py
 * For questions about the data or reproduction details, please contact the authors.
 * If you use this code or data format in your research, please cite our paper (accepted at **ASIS&T 2026**):
 
-> Fang, Q., Hao, J., & Zhang, C. (2026). Which Sections of a Research Paper Best Reveal Its Research Methods? Evidence from Library and Information Science. ***Proceedings of the 89th Annual Meeting of the Association for Information Science and Technology (ASIST’2026)***, Bangkok, Thailand, 6-10 November, 2026. [[doi]]()  [[arXiv]]()  [[Dataset & Source Code]](https://github.com/iiiiivan1/research-method-classification)
+> Fang, Q., Hao, J., & Zhang, C. (2026). Which Sections of a Research Paper Best Reveal Its Research Methods? Evidence from Library and Information Science. ***Proceedings of the 89th Annual Meeting of the Association for Information Science and Technology (ASIST’2026)***, Bangkok, Thailand, 6-10 November, 2026. [[doi]]()  [[arXiv]](https://arxiv.org/abs/2606.19051)  [[Dataset & Source Code]](https://github.com/iiiiivan1/research-method-classification)
 
 
 
